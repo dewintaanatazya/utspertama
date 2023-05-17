@@ -1,0 +1,11 @@
+class Main{
+
+    public static void main(String)(args) {
+
+        System.out.println("Nama Mhs :"+mhs.getNama());
+        System.out.println("Nim Mhs :"+mhs.getNim());
+        System.out.println("Smt Mhs :"+mhs.getSmt());
+        System.out.println("Username Mhs :"+mhs.getUsername());
+        System.out.println("Password Mhs :"+mhs.getPassword());
+    }
+}
